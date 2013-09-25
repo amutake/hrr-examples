@@ -1,2 +1,1 @@
-An example of haskell-relational-record
-=======================================
+Some examples of haskell-relational-record
