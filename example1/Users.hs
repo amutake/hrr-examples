@@ -17,5 +17,7 @@ $(defineTableDefault'
   "users"
   [ ("user_id", [t|Int32|])
   , ("name", [t|String|])
+  , ("password", [t|String|])
+  , ("age", [t|Int32|])
   ]
   [derivingShow])
